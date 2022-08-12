@@ -13,6 +13,7 @@ class JenkinsApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Jenkins Test is running");
+		logger.info("Jenkins Test is running");
 	}
 
 }
