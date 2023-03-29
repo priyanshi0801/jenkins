@@ -1,3 +1,2 @@
 # jenkins
 
-#Sample project
